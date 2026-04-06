@@ -24,6 +24,7 @@ public class Application {
     }
 
     public static void demo3() {
+        System.out.println(1);
         System.out.println("000-");
         System.out.println(1);
         System.out.println(200);
