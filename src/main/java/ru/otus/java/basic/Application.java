@@ -36,6 +36,11 @@ public class Application {
 
     public static void featureOne() {
         System.out.println("feature one start");
+        System.out.println(1);
+        System.out.println(2);
+        int x = 10;
+        System.out.println(x);
+
         System.out.println("feature one end");
     }
 }
