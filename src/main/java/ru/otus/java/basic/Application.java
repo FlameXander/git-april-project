@@ -22,4 +22,8 @@ public class Application {
         System.out.println("---" + 8);
         System.out.println("-----");
     }
+
+    public static void demo3() {
+        System.out.println("-");
+    }
 }
