@@ -40,7 +40,10 @@ public class Application {
         System.out.println(2);
         int x = 10;
         System.out.println(x);
-
+        int y = 20;
+        int z = x + y;
+        System.out.println(y);
+        System.out.println(z);
         System.out.println("feature one end");
     }
 }
