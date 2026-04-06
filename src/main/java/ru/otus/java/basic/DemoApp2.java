@@ -11,5 +11,6 @@ public class DemoApp2 {
         System.out.println("----");
         System.out.println("Feature 2");
         System.out.println("----");
+        System.out.println("End");
     }
 }
