@@ -5,4 +5,12 @@ public class DemoApp2 {
         System.out.println("q");
         System.out.println("A");
     }
+
+    public static void featureTwo() {
+        System.out.println("Begin");
+        System.out.println("----");
+        System.out.println("Feature 2");
+        System.out.println("----");
+        System.out.println("End");
+    }
 }
