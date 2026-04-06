@@ -33,4 +33,9 @@ public class Application {
         System.out.println(3);
         System.out.println("000-");
     }
+
+    public static void featureOne() {
+        System.out.println("feature one start");
+        System.out.println("feature one end");
+    }
 }
